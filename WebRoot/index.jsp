@@ -24,5 +24,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     <form action="/springmvc/sayHello.do">
     请您输入姓名:<input id="username" name="username"/><button type="submit">提交</button>
     </form>
+    Who am i?
   </body>
 </html>
